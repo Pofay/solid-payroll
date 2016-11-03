@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PayrollSystem.Domain", "PayrollSystem.Domain\PayrollSystem.Domain.csproj", "{E1C979C1-AFA9-4A96-9448-71BF8D0420E0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PayrollSystem.UnitTests", "PayrollSystem.UnitTests\PayrollSystem.UnitTests.csproj", "{DAEB8ADF-149E-4F15-94FD-D78F55BA0710}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E1C979C1-AFA9-4A96-9448-71BF8D0420E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1C979C1-AFA9-4A96-9448-71BF8D0420E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1C979C1-AFA9-4A96-9448-71BF8D0420E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1C979C1-AFA9-4A96-9448-71BF8D0420E0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DAEB8ADF-149E-4F15-94FD-D78F55BA0710}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DAEB8ADF-149E-4F15-94FD-D78F55BA0710}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DAEB8ADF-149E-4F15-94FD-D78F55BA0710}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DAEB8ADF-149E-4F15-94FD-D78F55BA0710}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
